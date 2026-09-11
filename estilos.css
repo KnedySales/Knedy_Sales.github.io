@@ -5,20 +5,17 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #f4f4f4;
-
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-
-  height: 100vh;
+  background-color: #f4f4f4;
 }
 
 .cartao {
   background-color: #00b894;
   color: white;
   padding: 40px;
-  text-align: center;
   border-radius: 6px;
+  text-align: center;
 }
